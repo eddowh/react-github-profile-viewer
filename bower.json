@@ -1,0 +1,20 @@
+{
+  "name": "github-profile-viewer",
+  "description": "Get and display user github info",
+  "main": "index.jsx",
+  "authors": [
+    "Eddo W. Hintoso"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6"
+  }
+}

@@ -1,0 +1,15 @@
+# Vendor files
+# ============
+bower_components/* linguist-vendored
+
+
+
+# FAULTY: vendor css + js files fails to calculate correct language percentage
+
+# By default, `bower_components` should already be ignored.
+
+# However, that is not the case with this repository, hence the high inflated
+# value of the CSS percentage.
+
+# Note that I have already git ignored `bower_components` and only forced
+# added the files I have included in my `index.html`
